@@ -1,0 +1,20 @@
+.parent {
+  position:relative;
+  width: 353px;
+  height: 400px;
+  background-color: red;
+  
+
+  /* font-size: 24px; */
+  /* text-align: center; */
+}
+.child {
+  position:fixed;
+  right: 51px;
+  top: 82px;
+  width: 236px;
+  height: 232px;
+  background-color: blue;
+  border: solid 3px #78e382;
+
+}

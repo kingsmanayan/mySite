@@ -1,0 +1,21 @@
+header{
+  background-color: #E7741A ;
+}
+section{
+  background-color: #7AE71A ;
+}
+.pic{
+  height: 50px;
+  width: 20px;
+
+}
+.imge{
+  height: 197px;
+  width: 260px;
+  margin-left: 641px;
+}
+.cloud{
+  height: 120px;
+  width: 190px;
+  margin-left: 841px;
+}
